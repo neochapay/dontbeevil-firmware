@@ -1,0 +1,3 @@
+[submodule "rtl8723bt"]
+	path = rtl8723bt
+	url = https://github.com/anarsoul/rtl8723bt-firmware.git
